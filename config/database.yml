@@ -78,8 +78,9 @@ test:
 #   production:
 #     url: <%= ENV['DATABASE_URL'] %>
 #
-production:
-  <<: *default
-  database: pepnote_r_production
-  username: pepnote_r
-  password: <%= ENV['PEPNOTE_R_DATABASE_PASSWORD'] %>
+
+# AWS_ACCESS_KEY: AKIAIKFMKLMZK5XJECVA
+# AWS_SECRET_KEY: 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
+# AWS_BUCKET: pepnoteb
+
+# fog_directory:'#' 
