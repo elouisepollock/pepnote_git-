@@ -41,11 +41,12 @@ group :development do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem "figaro"
-gem "fog-aws"
+
 gem 'carrierwave', '~> 1.0'
-gem 'stripe'
 gem 'mini_magick', '~> 4.8'
-gem 'aws-sdk', '~> 2'
+gem "fog-aws"
+
+gem 'stripe'
