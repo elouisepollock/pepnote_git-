@@ -47,3 +47,4 @@ gem "figaro"
 gem "fog-aws"
 gem 'carrierwave', '~> 1.0'
 gem 'stripe'
+gem 'mini_magick', '~> 4.8'
