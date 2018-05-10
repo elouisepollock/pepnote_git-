@@ -13,8 +13,9 @@ class UserNotifierMailer < ApplicationMailer
 
   default :from => 'any_from_address@example.com'
   def send_signup_email(recipient)
-    mail( :to =>recipient.email,
-    :subject =>'New Listing Added' )
+    #  mail( :to => current_user.email,
+     mail( :to => recipient.email,
+    :subject =>'New Listing Added' ) #*****
 
   end
 end

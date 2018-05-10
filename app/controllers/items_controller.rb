@@ -30,6 +30,7 @@ class ItemsController < ApplicationController
 
     respond_to do |format|
       if @item.save
+        UserNotifierMailer.send_signup_email(current_user).deliver
         format.html { redirect_to @item, notice: 'Item was successfully created.' }
         format.json { render :show, status: :created, location: @item }
       else
