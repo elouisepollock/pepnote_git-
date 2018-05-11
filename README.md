@@ -9,10 +9,10 @@ https://github.com/elouisepollock/pepnote_git-
 
 ## 3 - Problem Definition and Solution
 
-## 4 - Problem 
+## Problem 
 Presently buying or selling tickets to concerts in Australia is carried out over a number of websites not tailored to concert tickets. This can present a number of difficulties when searching for or buying tickets locally. 
 
-## 5 - Solution
+## 4 - Solution
 Second Show is an online market place for buying and selling concert and show tickets that will provide added features specific for this kind of transaction.
 
 ### Why in Australia
@@ -25,7 +25,7 @@ A lot of online marketplaces have a section for tickets but are focused on accom
 These sights are not focused only in Australia with all of the required features for ticket buying and selling.
 
 
-## 6 - User Stories
+## 5 - User Stories
 
 As someone who had bought tickets to a concert that I can no longer  attend, I want to be able to be connected who would like to buy these tickets.
 
@@ -44,9 +44,9 @@ As a buyer, I would like to be able to search for tickets by area and type.
 As a buyer, I would like to have the option of seeing all available tickets.
 
 
-Detailed User Stories
+## Detailed User Stories
 
-Users should be able to edit their profile 
+### Users should be able to edit their profile 
 
 Feature: Edit Profile
 
@@ -63,7 +63,7 @@ Senario
 - Then choose update
 - And the the new details should be saved
 
-Users should be able to edit a listing that they have created
+### Users should be able to edit a listing that they have created
 
 Feature: Edit listing
 
@@ -80,7 +80,7 @@ Senario
 - Then choose update
 - And the new listing should appear
 
-Users should not be able to change other users listings
+### Users should not be able to change other users listings
 
 - As a user 
 - I do not want any other user to be able to edit my listing
@@ -92,17 +92,35 @@ Senario
 - I go to another users item page
 - There will be no option to edit this item
 
- 
 ### Trello
 ![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-01%20at%2010.11.36%20am.png?raw=true)
+
+## 6 - Wireframes / Flowchart / Figma Mockups
 
 ### Wire Frames
 ![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-03%20at%2012.56.39%20pm.png?raw=true)
 
-### Data Base
+### Flow Chart
+![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-11%20at%201.46.43%20pm.png?raw=true)
+
+
+## 7 - Link to your ERD (entity relationship diagram) and screenshots of the ERD
+
+
+## 8 - Database Tables / Models
+## 9 - Design decisions 
 
 ### Colour Palette
 ![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-02%20at%208.31.22%20pm.png?raw=true)
 
 ![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-02%20at%208.59.31%20pm.png?raw=true)
+
+## 10 - Future development / project improvements
+
+
+
+
+
+
+
 
