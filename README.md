@@ -94,6 +94,6 @@ Senario
 
  ![title](https://github.com/username/reponame/blob/master/subfolders.../filename.jpg)
  
-![title](github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-01%20at%2010.11.36%20am.png)
+![image](github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-01%20at%2010.11.36%20am.png)
 
 
