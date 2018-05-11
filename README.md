@@ -92,8 +92,15 @@ Senario
 - I go to another users item page
 - There will be no option to edit this item
 
- ![title](https://github.com/username/reponame/blob/master/subfolders.../filename.jpg)
  
+### Trello
 ![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-01%20at%2010.11.36%20am.png?raw=true)
 
+### Wire Frames
+![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-01%20at%2010.11.36%20am.png?raw=true)
+
+### Data Base
+
+### Colour Palette
+![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-02%20at%208.31.22%20pm.png?raw=true)
 
