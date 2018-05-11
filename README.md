@@ -1,4 +1,4 @@
-#Problem Definition and Solution
+Problem Definition and Solution
 
 Problem 
 Presently buying or selling tickets to concerts in Australia is carried out over a number of websites not tailored to concert tickets. This can present a number of difficulties when searching for or buying tickets locally. 
