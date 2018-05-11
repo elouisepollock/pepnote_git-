@@ -97,10 +97,12 @@ Senario
 ![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-01%20at%2010.11.36%20am.png?raw=true)
 
 ### Wire Frames
-![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-01%20at%2010.11.36%20am.png?raw=true)
+![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-03%20at%2012.56.39%20pm.png?raw=true)
 
 ### Data Base
 
 ### Colour Palette
 ![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-02%20at%208.31.22%20pm.png?raw=true)
+
+![Image](https://github.com/elouisepollock/Images/blob/master/Screen%20Shot%202018-05-02%20at%208.59.31%20pm.png?raw=true)
 
